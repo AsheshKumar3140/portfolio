@@ -71,3 +71,4 @@ export default function DeployingSoonModal({ isOpen, onClose, projectTitle }: De
     </div>
   );
 }
+
