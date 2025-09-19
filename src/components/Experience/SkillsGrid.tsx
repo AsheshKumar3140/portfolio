@@ -4,10 +4,15 @@ export default function SkillsGrid() {
     "Node.js", 
     "TypeScript",
     "Next.js",
-    "GraphQL",
+    "Remix",
+    "Expo",
+    "Tailwind CSS",
+    "Mongo",
+    "Supabase",
+    "Express",
     "PostgreSQL",
-    "Docker",
-    "AWS"
+    "C++",
+    "Python",
   ];
 
   return (
