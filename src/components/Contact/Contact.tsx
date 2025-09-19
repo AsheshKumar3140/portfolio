@@ -9,7 +9,7 @@ export default function Contact() {
           Contact Me
         </h2>
         <p className="mt-4 text-lg text-[var(--text-secondary)]">
-          Have a project in mind or want to connect? Let's talk.
+          Have a project in mind or want to connect? Let&apos;s talk.
         </p>
       </div>
       <div className="mt-16 grid grid-cols-1 gap-16 md:grid-cols-2">
