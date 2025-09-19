@@ -8,9 +8,11 @@ export default function AboutImage() {
         <Image
           alt="Ashesh Kumar's Headshot"
           className="relative h-full w-full rounded-full border-4 border-[var(--border-color)] object-cover shadow-lg"
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuBobyRkRotWSJWOcLOQEYzLmKAJvyjJ22BF7cx0iNYtMubAl7tuqh3fJLVzjtv88fONjAtYd4JAHfDyJBSlDGG1MS0FZX7ebjPldChQRscL_RzSnTptyB4FaE10v5Fg64i1xB_j9W15MrgVbrksenWXABBjJYL-lywrsN3Fdsf5au1816coG4JD6yqeHER17FeFnDhz-dUfDnKvN8Il8dTe5KHLfPu3LAOBpfpYxbmSdkBfRtP-3oRQWN28GZ2HMDzucfZU06KUY5o"
-          width={320}
-          height={320}
+          src="/me.png"
+          width={400}
+          height={400}
+          quality={95}
+          priority
         />
       </div>
     </div>
