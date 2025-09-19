@@ -11,7 +11,7 @@ export default function AboutImage() {
           src="/me.png"
           width={400}
           height={400}
-          quality={95}
+          quality={99}
           priority
         />
       </div>
