@@ -15,8 +15,10 @@ export default function ProjectCard({ title, imageUrl, url, delay = "" }: Projec
 
   const handleViewDetails = () => {
     if (url) {
+      // Ensure URL has protocol
+      const fullUrl = url.startsWith('http') ? url : `https://${url}`;
       // Open external link
-      window.open(url, '_blank', 'noopener,noreferrer');
+      window.open(fullUrl, '_blank', 'noopener,noreferrer');
     } else {
       // Show deploying soon modal
       setIsDeployingModalOpen(true);
