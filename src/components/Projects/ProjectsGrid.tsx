@@ -15,6 +15,7 @@ export default function ProjectsGrid() {
     {
       title: "AI Candidate Assessment System",
       imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuBMHI4aRPceRgsgiNjyvla6_T3hKopWc_MEPypIj-JmrM2EIHt5EffcHtqL6X8LbvZ0LmOUiIblYB7CsJs1fUBO2O74gYgIdX3F1dTs3ggMj64oAzSWO6W_LLMv8g869yT9rgQlhN8d2OHQYxrfw4COGCGmiOizP0Im3KiPY1veLngQjb4XrYPLUQbFptfUSx21-7jCp9NJByPeXkIy7HR_sWGUidLrDccWPL9oL-NrdV9wuHZRg9A7yVwJRS9kIaO-JvUMv2bD-e8",
+      url: "ai-candidate-frontend.vercel.app"
     },
     {
       title: "A Dark Themed Portfolio Website",
