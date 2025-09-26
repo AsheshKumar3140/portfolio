@@ -5,7 +5,7 @@ export default function ProjectsGrid() {
     {
       title: "All In One Solution For Companies",
       imageUrl: "/projects/3.png",
-      url: "https://compnay-internal-app.vercel.app/"
+      url: "https://company-internal-app.vercel.app/"
      
     },
     {
